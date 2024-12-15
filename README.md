@@ -1,5 +1,7 @@
 # quantum-sentinel
-Quantum Sentinel is an advanced cybersecurity framework that utilizes quantum key distribution and AI-driven threat detection to provide unparalleled protection for sensitive data. 
+Quantum Sentinel is an advanced cybersecurity framework that utilizes quantum key distribution and AI-driven threat detection to provide unparalleled protection for sensitive data. This repository contains the core algorithms, encryption protocols, and AI models that power the Quantum Sentinel system, along with documentation and examples for seamless integration into existing infrastructures. 
+
+Join us in revolutionizing cybersecurity for the quantum age!
 
 # Quantum Sentinel
 
