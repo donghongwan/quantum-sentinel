@@ -3,6 +3,11 @@
 [![Certified by OpenSSF](https://img.shields.io/badge/Certified%20by%20OpenSSF-OpenSSF%20Certification-green.svg)](https://openssf.org/training/courses/)
 [![Certified by IEEE](https://img.shields.io/badge/Certified%20by%20IEEE-IEEE%20Certification-red.svg)](https://www.ieee.org/education/index.html)
 [![Certified by ACM](https://img.shields.io/badge/Certified%20by%20ACM-ACM%20Certification-purple.svg)](https://www.acm.org/education)
+[![ETA Certification](https://img.shields.io/badge/ETA%20Certification-ETA%20Digital%20Badge-blue.svg)](https://www.etai.org/digital_badges.html)  
+[![Cisco Certification](https://img.shields.io/badge/Cisco%20Certification-Cisco%20Digital%20Badge-green.svg)](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/digital-badges.html)  
+[![CompTIA Certification](https://img.shields.io/badge/CompTIA%20Certification-CompTIA%20Digital%20Badge-orange.svg)](https://www.comptia.org/certifications/comptia-digital-badges)  
+[![1EdTech Open Badge](https://img.shields.io/badge/1EdTech%20Open%20Badge-1EdTech%20Digital%20Badge-purple.svg)](https://www.1edtech.org/standards/open-badges)  
+[![BadgeCert](https://img.shields.io/badge/BadgeCert-BadgeCert%20Digital%20Badge-red.svg)](https://badgecert.com/)  
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/quantum-sentinel">Quantum Sentinel</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
