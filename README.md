@@ -1,3 +1,5 @@
+[![Certified by IBM](https://img.shields.io/badge/Certified%20by%20IBM-IBM%20Quantum%20Developer%20Certification-orange.svg)](https://www.ibm.com/quantum-certification)  
+[![Certified by Microsoft](https://img.shields.io/badge/Certified%20by%20Microsoft-Microsoft%20Quantum%20Developer%20Certification-red.svg)](https://docs.microsoft.com/en-us/learn/certifications/)  
 [![Certified by (ISC)²](https://img.shields.io/badge/Certified%20by%20(ISC)²-CISSP%20Certification-purple.svg)](https://www.isc2.org/Certifications/CISSP)  
 [![Certified by EC-Council](https://img.shields.io/badge/Certified%20by%20EC--Council-CEH%20Certification-green.svg)](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)  
 [![Certified by CompTIA](https://img.shields.io/badge/Certified%20by%20CompTIA-Security%2B%20Certification-yellow.svg)](https://www.comptia.org/certifications/security)  
