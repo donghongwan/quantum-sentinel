@@ -1,2 +1,28 @@
-# Google App Engine generated folder
-appengine-generated/
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+
+# Backup files
+*.bak
+
+# IDE specific files
+.idea/
+.vscode/
+
+# Distribution files
+dist/
+build/
+*.egg-info/
