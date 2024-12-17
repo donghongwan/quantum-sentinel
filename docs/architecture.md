@@ -12,7 +12,8 @@ This document provides an overview of the architecture of the Quantum Sentinel f
 - **Logging Module**: Handles logging and monitoring functionalities.
 
 ## Architecture Diagram
-*(Include a diagram here if available)*
+
+![Quantum Sentinel Diagram](quantum_sentinel_diagram.jpeg) 
 
 ## Design Principles
 - **Modularity**: Each component is designed to be independent and reusable.
